@@ -5,4 +5,4 @@
 ![Lampiran notes](detail.png)
 ![Lampiran notes2](ubah.png)
 ![Lampiran sidebar](sure.png)
-![Lampiran about](tambah.png)"# LabMobile4_Syifa_ShiftD" 
+![Lampiran about](tambah.png)
