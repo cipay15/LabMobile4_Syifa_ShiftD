@@ -11,7 +11,7 @@
 # Tugas 5
 ## Proses Registrasi
 ### Registrasi
-Tampilan utama yaitu login. Namun, karena belum registrasi, maka harus ke halaman registrasi dengan klik "registrasi
+Tampilan utama yaitu login. Namun, karena belum registrasi, maka harus ke halaman registrasi dengan klik "registrasi"
 ![Lampiran login5](login5.png)
 ### Input Data
 Inputkan data sesuai identitas diri
